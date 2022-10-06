@@ -1,0 +1,19 @@
+.nav{
+    height: 10%
+}
+  
+.body{
+    height: 90%
+}
+  
+.bg-image{
+  max-width: 60%;
+  margin-left: 30%;
+  padding-top: 5%;
+}
+  
+.consult{
+  position: absolute;
+  top: 40%;
+  left: 9%;
+}
